@@ -31,7 +31,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="32dp"
         android:onClick="onButton2Clicked"
-        android:text="네이버"
+        android:text="네이버 수정"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/button1"
